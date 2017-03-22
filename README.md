@@ -1,6 +1,7 @@
 # pixel-pls
 
-I got real sick of checking if the Pixel is back in stock
+I got real sick of checking if the
+[Pixel](https://madeby.google.com/phone/) is back in stock
 
 pixel-pls checks if the Pixel is in stock and sends an SMS via Twilio if it is
 
